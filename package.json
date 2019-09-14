@@ -1,0 +1,24 @@
+{
+  "name": "people_connect",
+  "version": "1.0.0",
+  "description": "people engagement app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/bin/init.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mailamiton/people_connect.git"
+  },
+  "author": "Amit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mailamiton/people_connect/issues"
+  },
+  "homepage": "https://github.com/mailamiton/people_connect#readme",
+  "dependencies": {
+    "debug": "4.1.1",
+    "express": "4.17.1"
+  }
+}
